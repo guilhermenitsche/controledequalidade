@@ -1,0 +1,2 @@
+# controledequalidade
+    SISTEMA DE CONTROLE DE QUALIDADE INDUSTRIAL
